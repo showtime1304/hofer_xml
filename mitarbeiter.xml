@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:filiale xmlns:ns2="hofer_xml">
+    <adresse>Blaubärgasse 123</adresse>
+    <Mitarbeiter>
+        <abteilung>Fahrräder</abteilung>
+        <gehalt>1000</gehalt>
+        <name>Tom Turbo</name>
+    </Mitarbeiter>
+    <Mitarbeiter>
+        <abteilung>VWs</abteilung>
+        <gehalt>500</gehalt>
+        <name>Herbie</name>
+    </Mitarbeiter>
+    <name>FunFunFun</name>
+</ns2:filiale>
